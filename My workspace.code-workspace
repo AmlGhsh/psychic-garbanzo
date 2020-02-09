@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\user\\Documents\\C_files"
+		},
+		{
+			"path": "C:\\Users\\user\\Documents\\Java_files"
+		},
+		{
+			"path": "C:\\Users\\user\\Documents\\C++_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html_files"
+	}
+}
